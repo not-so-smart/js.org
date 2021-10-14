@@ -720,7 +720,7 @@ var cnames_active = {
   "discordjs-handler": "discordjs-handler.github.io/website",
   "discordlib": "hosting.gitbook.com",
   "discords": "botstudios.github.io/discords.js.org",
-  "discordutility": "chaosphoe.github.io/discordutility",
+  "discordutility": "chaosphoe.github.io/discordutility",   
   "display": "arguiot.github.io/DisplayJS",
   "distillery": "achannarasappa.github.io/distillery", // noCF? (don´t add this in a new PR)
   "distri": "flarp.github.io/Distri.js",
@@ -1092,6 +1092,7 @@ var cnames_active = {
   "greylock": "datamart.github.io/Greylock",
   "gridiron": "noderaider.github.io/gridiron",
   "gridsplit": "assetinfo.github.io", // noCF? (don´t add this in a new PR)
+  "groupme": "not-so-smart.github.io/node-groupme",
   "grub": "grubburg.github.io/blog",
   "gruft": "nikola.github.io/gruft", // noCF? (don´t add this in a new PR)
   "grumpy": "aidenybai.github.io/grumpy",
